@@ -10,12 +10,12 @@
 
   - 债券型基金
 
-    - 单位净值(netWorth)
+    - 单位净值（netWorth）
     
-    - 累计净值(ACWorth)
+    - 累计净值（ACWorth）
 
   - 货币型基金
   
-    - 每万元收益(millionCopiesIncome)
+    - 每万元收益（millionCopiesIncome）
     
-    - 七日年化收益(sevenDaysYearIncome)
+    - 七日年化收益（sevenDaysYearIncome）
